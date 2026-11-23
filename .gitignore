@@ -1,0 +1,12 @@
+# unneeded shit
+
+planned.md
+README.md
+roadmap.md
+kernel.md
+pictures/
+/build/
+zig-out/
+.zig-cache/
+__pycache__/
+.pytest_cache/
